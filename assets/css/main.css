@@ -38,18 +38,11 @@ body {
     color: #ffffff
     
 }
-.about-me {
-    font-size: 400%;
-    color: #ffffff;
+
+.home-button{
     text-align: center;
-    position:static;
-    text-decoration: underline solid white;
-    
-}
-.aboutme-text {
-    font-size: 120%;
-    color: #ffffff;
-    text-align: center;
+    padding: 60px;
+    font-size: 150%;
 }
 
 
@@ -62,6 +55,14 @@ body {
     list-style: none;
     padding: 2%;
 }
+
+
+.social-links2 {
+    list-style: none;
+    padding: 2%;
+    font-size: 35px;
+}
+
 
 img {
     max-width: 100%;
