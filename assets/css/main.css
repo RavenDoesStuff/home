@@ -38,6 +38,20 @@ body {
     color: #ffffff
     
 }
+.about-me {
+    font-size: 400%;
+    color: #ffffff;
+    text-align: center;
+    position:static;
+    text-decoration: underline solid white;
+    
+}
+.aboutme-text {
+    font-size: 120%;
+    color: #ffffff;
+    text-align: center;
+}
+
 
 .text-desc {
     font-size: 20px;
