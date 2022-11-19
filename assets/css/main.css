@@ -31,7 +31,7 @@ body {
 
 .text-name {
     font-size: 400%;
-    color: #e24fff
+    color: #ffffff
 }
 .forked-from {
     font-size: 150%;
@@ -53,7 +53,7 @@ body {
 
 .social-links {
     list-style: none;
-    padding: 2%;
+    padding: 3%;
 }
 
 
@@ -76,23 +76,4 @@ a {
 
 a:hover {
     color: aquamarine;
-}
-
-@media (prefers-color-scheme: light) {
-    :root {
-        background-image: url(../images/bg-light.svg);
-    }
-
-    .container {
-        color: black;
-    }
-
-    a {
-        color: black;
-    }
-
-    .text-name {
-        font-size: 400%;
-        color: rgb(195 145 230)
-    }
 }
